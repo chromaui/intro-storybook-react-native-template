@@ -39,22 +39,33 @@ This template ships with the main React Native and Storybook configuration files
 
 1.  **Browse your stories!**
 
-    Run `yarn storybook` to see your component's stories at `http://localhost:6006` (needs replacement for React Native)
+    Run `yarn storybook:ios` for ios or `yarn storybook:android` for android to see your component's stories on your emulator or device.
 
 ## 🔎 What's inside?
 
-A quick look at the top-level files and directories included with this template. (Requires changes per Expo file structure)
+A quick look at the top-level files and directories included with this template.
 
     .
     ├── .gitignore
     ├── LICENSE
-    └── README.md
+    ├── README.md
+    ├── App.jsx
+    ├── app.config.js
+    ├── yarn.lock
+    ├── package.json
+    ├── babel.config.js
 
 1.  **`.gitignore`**: This file tells git which files it should not track or maintain during the development process of your project.
 
 2.  **`LICENSE`**: The template is licensed under the MIT licence.
 
 3.  **`README.md`**: A text file containing useful reference information about the project.
+
+4. **`App.jsx`**: This is the entry point of your app.  
+
+5. **`app.config.js`**: This is the configuration file for Expo that allows you to customize your app.
+
+6. **`yarn.lock`**: This is an automatically generated file based on the exact versions of your npm dependencies that were installed.
 
 ## Contribute
 
