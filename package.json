@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
     "expo": "^47.0.0",
     "expo-constants": "~14.0.2",
     "react": "18.1.0",
