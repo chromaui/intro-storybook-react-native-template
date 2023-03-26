@@ -46,7 +46,9 @@ try {
 } catch {}
 
 const getStories = () => {
-  return {};
+  return {
+    "./components/Task.stories.jsx": require("../components/Task.stories.jsx"),
+  };
 };
 
 configure(getStories, module, false);
