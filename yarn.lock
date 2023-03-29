@@ -2072,19 +2072,19 @@
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-ondevice-actions@6.5.0-rc.9":
-  version "6.5.0-rc.9"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-6.5.0-rc.9.tgz#57476efa68e38e3db26c1d84861c5e2d45e972e8"
-  integrity sha512-mieF3G+Mv1kZrfSWxQdVP/u3rcVqfIG0HEzSKMKhEU3E8qgI/bCSlM7ZpUSWlWBQ5XUS7f6AvHGrw3zxkMt8bg==
+"@storybook/addon-ondevice-actions@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-6.5.1.tgz#6f4903d16dfab83727f963d58597b8c5bdae9f38"
+  integrity sha512-dyKErK97sT+cd5ApGSYHQokMK+GHLaucrJ/LhHtPxWwMHulaV17Pyzbb8FE550DF3YNXjkcZZjMMJlc/1QmgCQ==
   dependencies:
     "@storybook/addons" "^6.5.14"
     "@storybook/core-events" "^6.5.14"
     fast-deep-equal "^2.0.1"
 
-"@storybook/addon-ondevice-controls@6.5.0-rc.9":
-  version "6.5.0-rc.9"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-controls/-/addon-ondevice-controls-6.5.0-rc.9.tgz#2b8e46184eb95f883ef382dda588e9508f21ac1a"
-  integrity sha512-wkSjRxWCeaEXqnHH2sY9FctV4Il+Qymj206319h0SaDIxaZXpb27ES0zUnbpF21EFq3y49mqS4mGpmUc4fwErg==
+"@storybook/addon-ondevice-controls@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-controls/-/addon-ondevice-controls-6.5.1.tgz#6a653a2ea361c456ae3c0eb085293090f45f9311"
+  integrity sha512-qloWEdyXwtDjUXF9V8CZnnTnDN8SLeO2vhrCsDBv1v64oUvlmnaxBVVRvB2go8kybpnF9lnYyBFXQZVigg/fFA==
   dependencies:
     "@emotion/native" "^10.0.14"
     "@storybook/addons" "^6.5.14"
@@ -2347,10 +2347,10 @@
     unfetch "^4.2.0"
     util-deprecate "^1.0.2"
 
-"@storybook/react-native@6.5.0-rc.9":
-  version "6.5.0-rc.9"
-  resolved "https://registry.yarnpkg.com/@storybook/react-native/-/react-native-6.5.0-rc.9.tgz#7682694117376b89c41ae41aceddb22defcd143e"
-  integrity sha512-lB6/jRk/RzN0wm7y982P22H305FhRwuMTev5167XiJMwINt1lvy0ASShg7osifsZvqPOoUIOgD/xLyGGqwGeFw==
+"@storybook/react-native@^6.5.1":
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/react-native/-/react-native-6.5.1.tgz#d79ae0e87b8ce9ee4b7d3486c25d7bc3598d8d5c"
+  integrity sha512-JNPwZP0i9UjAHOvbVAELZbZvdlhrwt8KSl6ZDYa3qhknKJ+CbQAp1r6z58TouhfL+ox3xocy4ZvlnPLihr+T2A==
   dependencies:
     "@emotion/core" "^10.0.20"
     "@emotion/native" "^10.0.14"
