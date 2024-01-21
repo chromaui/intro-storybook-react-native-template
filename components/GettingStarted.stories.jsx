@@ -1,4 +1,3 @@
-import type { Meta, StoryObj } from "@storybook/react";
 import { Linking, Text, View } from "react-native";
 
 const StarterComponent = () => (
@@ -24,13 +23,13 @@ const StarterComponent = () => (
   </View>
 );
 
-const meta: Meta<typeof StarterComponent> = {
+const meta = {
   title: "Welcome",
   component: () => <StarterComponent />,
 };
 
 export default meta;
 
-export const GettingStarted: StoryObj<typeof StarterComponent> = {
+export const GettingStarted = {
   args: {},
 };

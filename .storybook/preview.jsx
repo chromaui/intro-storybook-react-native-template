@@ -1,7 +1,7 @@
 import { View } from "react-native";
 import { Preview } from "@storybook/react";
 
-const preview: Preview = {
+const preview = {
   parameters: {
     controls: {
       matchers: {
