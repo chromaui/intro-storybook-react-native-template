@@ -32,4 +32,7 @@ export default meta;
 
 export const GettingStarted = {
   args: {},
+  parameters: {
+    noBackground: true,
+  },
 };
