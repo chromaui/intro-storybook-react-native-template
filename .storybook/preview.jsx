@@ -1,5 +1,6 @@
 import { View } from "react-native";
 
+/** @type{import("@storybook/react").Preview} */
 const preview = {
   parameters: {
     controls: {

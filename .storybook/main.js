@@ -1,3 +1,4 @@
+/** @type{import("@storybook/react-native").StorybookConfig} */
 module.exports = {
   stories: ["../components/**/*.stories.?(ts|tsx|js|jsx)"],
   addons: [

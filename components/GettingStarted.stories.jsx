@@ -25,7 +25,7 @@ const StarterComponent = () => (
 
 const meta = {
   title: "Welcome",
-  component: () => <StarterComponent />,
+  component: StarterComponent,
 };
 
 export default meta;
