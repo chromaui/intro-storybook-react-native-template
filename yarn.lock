@@ -2548,10 +2548,10 @@
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-ondevice-actions@7.6.10-rc.0":
-  version "7.6.10-rc.0"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-7.6.10-rc.0.tgz#02ad8ee6a091e7a315ae19128e2fd0c3005be05f"
-  integrity sha512-7wgcntHxFuJJ5upjlOsZ3Il3fcwpEDXRMytVKgpxFmCeFlVbVSk8Jprr8eCukEzE1OvCDbpCngPw+c9AaSPZfw==
+"@storybook/addon-ondevice-actions@^7.6.14":
+  version "7.6.14"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-actions/-/addon-ondevice-actions-7.6.14.tgz#7e93112d9fdf91d0cfed28d0df7fe91bc7e3ae1a"
+  integrity sha512-bshimS4iLEAKD1V2Lqz9x476RQcb8AGKraUi/9NMEnk3f40bjMc4XOxPonmExUVFVOShegVEtAnLOUUrqzoLiw==
   dependencies:
     "@storybook/addon-actions" "^7.6.10"
     "@storybook/core-events" "^7.6.10"
@@ -2559,17 +2559,17 @@
     "@storybook/manager-api" "^7.6.10"
     fast-deep-equal "^2.0.1"
 
-"@storybook/addon-ondevice-controls@7.6.10-rc.0":
-  version "7.6.10-rc.0"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-controls/-/addon-ondevice-controls-7.6.10-rc.0.tgz#fbee919ddb260d99e491ab59635537ccc12a4362"
-  integrity sha512-QqDngJ86R+cqx6NOGkL3sLqgiVS8mfNzk4He0F3hlO/b9WQrFjPdhg1RYeMOu7VJgNYOsT41gxSc6y13IECNwg==
+"@storybook/addon-ondevice-controls@^7.6.14":
+  version "7.6.14"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-ondevice-controls/-/addon-ondevice-controls-7.6.14.tgz#c5a711157594d8b2cb53c25955c7a720db98580a"
+  integrity sha512-1NrxM5r70uey9WifBHqUHVIWQJmLsgJy1v/WF9GbX2JmbHjcZ/inDHf8VRp7a18KjXb4lMfgtwNVrHC3SCswlg==
   dependencies:
     "@storybook/addon-controls" "^7.6.10"
     "@storybook/channels" "^7.6.10"
     "@storybook/client-logger" "^7.6.10"
     "@storybook/core-events" "^7.6.10"
     "@storybook/manager-api" "^7.6.10"
-    "@storybook/react-native-theming" "^7.6.10-rc.0"
+    "@storybook/react-native-theming" "^7.6.14"
     deep-equal "^1.0.1"
     prop-types "^15.7.2"
     react-native-modal-datetime-picker "^14.0.0"
@@ -2767,15 +2767,15 @@
   resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.6.10.tgz#d16df5d65a51ed66df92430d8f51d50bd177f2c2"
   integrity sha512-M+N/h6ximacaFdIDjMN2waNoWwApeVYTpFeoDppiFTvdBTXChyIuiPgYX9QSg7gDz92OaA52myGOot4wGvXVzg==
 
-"@storybook/react-native-theming@^7.6.10-rc.0":
-  version "7.6.10-rc.0"
-  resolved "https://registry.yarnpkg.com/@storybook/react-native-theming/-/react-native-theming-7.6.10-rc.0.tgz#b70d279d16f4a14522cd951557360dcafdf74ca2"
-  integrity sha512-4WqmCpOUKFL8d4tGwxNGTiLX49dTp3BAkP7AI6iK/dztSVzza7peck7jNVHdVYuguFfufths0/MDWThBTSsX2g==
+"@storybook/react-native-theming@^7.6.14":
+  version "7.6.14"
+  resolved "https://registry.yarnpkg.com/@storybook/react-native-theming/-/react-native-theming-7.6.14.tgz#81a0707705cf7bbf726f415de72feded1f408cc0"
+  integrity sha512-3JAqeyzJgJ7ToRiK6adWZn5P2lE3UMae+ySnof2HapvU6Y+OHcCnrJNuAzJkbSYMn8DW2zJ/hnDWmink83Xpvw==
 
-"@storybook/react-native@7.6.10-rc.0":
-  version "7.6.10-rc.0"
-  resolved "https://registry.yarnpkg.com/@storybook/react-native/-/react-native-7.6.10-rc.0.tgz#b63a8c969eb9132069cd7ea6a83e2cf80d9affc9"
-  integrity sha512-umjGJtJ6u+yHhjezov0Ousw9W59lTe3QmGSHEkXozO4D3UA6ii68YgkA6gVFcOi5R3K4W3mh8u5bM03u1ZeTJA==
+"@storybook/react-native@^7.6.14":
+  version "7.6.14"
+  resolved "https://registry.yarnpkg.com/@storybook/react-native/-/react-native-7.6.14.tgz#44d8a34d618cf715bfb258710d7daf292ce98324"
+  integrity sha512-Cad8F7krzhWBO6bO6hyzCgNNz31CISdgGV1NKrpUK+tyV8E/GYsTKRFMkeClrrQHX33/wCXO6S2ffjB2MVVvPQ==
   dependencies:
     "@storybook/channels" "^7.6.10"
     "@storybook/client-logger" "^7.6.10"
@@ -2789,7 +2789,7 @@
     "@storybook/preview-api" "^7.6.10"
     "@storybook/preview-web" "^7.6.10"
     "@storybook/react" "^7.6.10"
-    "@storybook/react-native-theming" "^7.6.10-rc.0"
+    "@storybook/react-native-theming" "^7.6.14"
     chokidar "^3.5.1"
     commander "^8.2.0"
     dedent "^1.5.1"
