@@ -3,7 +3,7 @@ import { Linking, Text, View } from "react-native";
 const StarterComponent = () => (
   <View style={{ padding: 16 }}>
     <Text>
-      Thanks for trying out storybook, follow the{" "}
+      Thanks for trying out Storybook, follow the{" "}
       <Text
         style={{
           color: "blue",
